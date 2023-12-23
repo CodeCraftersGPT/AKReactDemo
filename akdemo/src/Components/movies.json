@@ -1,0 +1,20 @@
+ [
+    { 
+        "title": "Jawan", 
+        "hero": "Shah Rukh Khan",
+        "director": "Atlee Kumar",
+        "posterUrl": "jawan.jpeg"
+    },
+    { 
+        "title": "Leo", 
+        "hero": "Vijay",
+        "director": "Lokeesh Kanagaraj",
+        "posterUrl": "leo.jpeg"
+    },
+    { 
+        "title": "Salaar", 
+        "hero": "Prabhas",
+        "director": "Prashanth Neel",
+        "posterUrl": "salaar.jpeg"
+    }    
+]
